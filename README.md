@@ -66,4 +66,4 @@ This project analyzes Amazon product listings to uncover pricing strategies, dis
 
 ## 👤 Author
 * **Saloni Gupta**
-* [LinkedIn Profile](www.linkedin.com/in/saloni-gupta-7923ba349) | [GitHub Profile](https://github.com/saloniguptacarrer-data)
+* [LinkedIn Profile](https://www.linkedin.com/in/saloni-gupta-7923ba349) | [GitHub Profile](https://github.com/saloniguptacarrer-data)
